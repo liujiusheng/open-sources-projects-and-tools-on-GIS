@@ -20,7 +20,10 @@
 |  QGIS |  |  |  |
 |  Turf |  |  |  |
 |  PostGIS |  |  |  |
-|  GeoTools | GIS工具 |  Java GIS 工具包 |  |
+|  GeoTools | GIS工具 |  Java GIS 工具包 | https://geotools.org/ |
+|  udig |  |  | http://udig.refractions.net/ |
+|  PROJ |  |  | https://proj.org/ |
+
 
 
 # 最优组合方案
