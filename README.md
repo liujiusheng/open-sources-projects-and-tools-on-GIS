@@ -9,6 +9,14 @@
 |  Cesium |  |  |  |
 |  GDAL |  |  |  |
 |  ogr2ogr |  |  |  |
+|  PostgreSQL |  |  |  |
+|  MapServer |  |  |  |
+|  Maputnik |  |  |  |
+|  Itowns |  |  |  |
+|  mapbox/earcut |  |  |  |
+|  mapbox-gl-js |  |  |  |
+|  tippecanoe |  |  |  |
+
 
 
 # 最优组合方案
